@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "503469534831",
-    "firebase_url": "https://myrestaurants-a7fe2.firebaseio.com",
-    "project_id": "myrestaurants-a7fe2",
-    "storage_bucket": "myrestaurants-a7fe2.appspot.com"
+    "project_number": "63884726379",
+    "firebase_url": "https://myrestaurants-405a9.firebaseio.com",
+    "project_id": "myrestaurants-405a9",
+    "storage_bucket": "myrestaurants-405a9.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:503469534831:android:dff6c1b29d00d12f",
+        "mobilesdk_app_id": "1:63884726379:android:dff6c1b29d00d12f",
         "android_client_info": {
           "package_name": "com.epicodus.myrestaurants"
         }
       },
       "oauth_client": [
         {
-          "client_id": "503469534831-uenvv4shdsb4ach7mdkaq21pq74irenj.apps.googleusercontent.com",
+          "client_id": "63884726379-6dtsrmoe8b54iue0qmpp9l3hrj14oshk.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.epicodus.myrestaurants",
-            "certificate_hash": "B6C42550493871861690059E75E367501EBC081C"
+            "certificate_hash": "13A9841DB7FC8A0AE2B7DB55D8279A817A81DE8F"
           }
         },
         {
-          "client_id": "503469534831-0hmbh2vlf4odlhbqamoh96ic2pfn840k.apps.googleusercontent.com",
+          "client_id": "63884726379-j69oak6ahi55a4hdi76enn1oo0ihuk4t.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD4fpS5mOs_WRrqqpNJq2xSevExkvLWyGY"
+          "current_key": "AIzaSyDX4pERvCw0auBg16b6toREzQkZSFh2qRQ"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "503469534831-0hmbh2vlf4odlhbqamoh96ic2pfn840k.apps.googleusercontent.com",
+              "client_id": "63884726379-j69oak6ahi55a4hdi76enn1oo0ihuk4t.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
