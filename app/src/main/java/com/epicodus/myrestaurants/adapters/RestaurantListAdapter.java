@@ -13,6 +13,7 @@ import android.widget.TextView;
 import com.epicodus.myrestaurants.R;
 import com.epicodus.myrestaurants.models.Restaurant;
 import com.epicodus.myrestaurants.ui.RestaurantDetailActivity;
+import com.google.firebase.database.DatabaseReference;
 import com.squareup.picasso.Picasso;
 
 import org.parceler.Parcels;
